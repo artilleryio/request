@@ -1,3 +1,9 @@
+Artillery.io has replaced Request but a legacy HTTP engine is still available for users that rely on Request-specific behavior. This package republishes the original Request library so that Artillery.io users do not see deprecation warnings which are not likely to be relevant.
+
+Original README follows:
+
+----
+
 # Deprecated!
 
 As of Feb 11th 2020, request is fully deprecated. No new changes are expected to land. In fact, none have landed for some time.
